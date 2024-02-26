@@ -1,0 +1,11 @@
+---
+title: "Blog for Dr. Z"
+description: |
+  Dr. Z is in class now.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am a faculty at the University of Oregon.

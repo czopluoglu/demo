@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/second_post/",
+    "title": "This is my second post",
+    "description": "This is my second post.",
+    "author": [
+      {
+        "name": "Cengiz Zopluoglu",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2024-02-28",
+    "categories": [],
+    "contents": "\r\nThis is my second post.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-02-26T14:08:53-08:00",
+    "input_file": {}
+  }
+]

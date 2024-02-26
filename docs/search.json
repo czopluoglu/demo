@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Blog for Dr. Z",
+      "description": "Dr. Z is in class now.",
+      "author": [],
+      "contents": "\r\nI am a faculty at the University of Oregon.\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-26T14:14:18-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-26T14:14:18-08:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "author": [],
+      "contents": "\r\nList of Publicaitons\r\n2023\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-26T14:14:19-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
